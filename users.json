@@ -1,0 +1,56 @@
+[
+  {
+    "username": "john_doe",
+    "password": "c05wf",
+    "dob": "1990-01-01",
+    "image": "https://firebasestorage.googleapis.com/v0/b/upload-files-d3b42.appspot.com/o/upload-files%2Fimages%2Fblackmyth-1723969364570.jpg?alt=media&token=7d51fe27-e860-44c8-ae9e-b2d86dc31382"
+  },
+  {
+    "username": "1",
+    "password": "1",
+    "dob": "1",
+    "image": "https://firebasestorage.googleapis.com/v0/b/upload-files-d3b42.appspot.com/o/upload-files%2Fimages%2Fblackmyth-1723969364570.jpg?alt=media&token=7d51fe27-e860-44c8-ae9e-b2d86dc31382"
+  },
+  {
+    "username": "2",
+    "password": "2",
+    "dob": "2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/upload-files-d3b42.appspot.com/o/upload-files%2Fimages%2Fblackmyth-1723969364570.jpg?alt=media&token=7d51fe27-e860-44c8-ae9e-b2d86dc31382"
+  },
+  {
+    "username": "3",
+    "password": "3",
+    "dob": "3",
+    "image": "https://firebasestorage.googleapis.com/v0/b/upload-files-d3b42.appspot.com/o/upload-files%2Fimages%2Fblackmyth-1723969364570.jpg?alt=media&token=7d51fe27-e860-44c8-ae9e-b2d86dc31382"
+  },
+  {
+    "username": "n1@gmail.com",
+    "password": "123"
+  },
+  {
+    "username": "btl@gmail.com",
+    "password": "123"
+  },
+  {
+    "username": "boy@gmail.com",
+    "password": "nhan123"
+  },
+  {
+    "username": "u@gmail.com",
+    "password": "123"
+  },
+  {
+    "username": "boy31@gmail.com",
+    "password": "123"
+  },
+  {
+    "username": "h@gmail.com",
+    "password": "123"
+  },
+  {
+    "username": "n1",
+    "password": "123",
+    "dob": "2311-12-02",
+    "image": "333"
+  }
+]
